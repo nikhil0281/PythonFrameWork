@@ -169,6 +169,8 @@ class demoblaze(AllDataVariable):
         assert SiteURL == Homeurl
         print("User routes back on home")
         print("User routes back on home2.")
+        print("User routes back on home3.")
+        print("fff")
         print(time.localtime())
             # if ProductsCartList.text == ProductsListONCartPage:
             #     print(ProductsListONCartPage + " exist in cart list.....")
